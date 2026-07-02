@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: yourdockerhubuser/my-app:init
+          image: jmsajib11/my-app:init
           ports:
             - containerPort: 8000
 ---
