@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: jmsajib11/my-app:b1c019feebcec3e1cc87185d0b450afbfc5a8be0
+          image: jmsajib11/my-app:04ece0ffc95349877b6d82f346875a94326cd0bf
           ports:
             - containerPort: 8000
 ---
