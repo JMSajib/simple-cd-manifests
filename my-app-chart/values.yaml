@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: jmsajib11/my-app
-  tag: "b40051745d15f84f7780fe17b88ab39e7d76eca0"
+  tag: "a73e2643ca4fd1e3703234b8ff5c6b08e5b723a1"
   pullPolicy: IfNotPresent
 
 service:
